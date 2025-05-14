@@ -1,0 +1,81 @@
+#Doctor
+{
+    height: 40vh;
+    background-image: url(./IndexTwoPhotos/doctor.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 0.8%;
+}
+.DoctorHeader , .DoctorPhragraph
+{
+    display: flex;
+    justify-content: center;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+#Coding
+{
+    height: 20vh;
+    background-image: url(./IndexTwoPhotos/WebAndCyber.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 0.8%; 
+}
+.CodingParagraph , .CodingHeader
+{
+    display: flex;
+    justify-content: center;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+ul > h2,li
+{
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+#Cycling
+{
+    height: 20vh;
+    background-image: url(./IndexTwoPhotos/cycling.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 0.8%; 
+}
+.CyclingHeader , .CyclingParagraph
+{
+    display: flex;
+    justify-content: center;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: #06A800;
+}
+#Reading
+{
+    height: 20vh;
+    background-image: url(./IndexTwoPhotos/ReadingBook.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 0.8%; 
+}
+.ReadingHeader , .ReadingParagraph
+{
+    display: flex;
+    justify-content: center;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
